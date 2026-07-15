@@ -1,6 +1,7 @@
 <p align="center">
   <img src="assets/m2a-title.png" alt="Earthquake Fourier Processing" width="100%">
 </p>
+
 # 🎬🌇 Media-to-ASCII Translator/Handler (fork of "ASCII Video Player v4 — Ultimate Edition")
 
 ![Java](https://img.shields.io/badge/java-23.0.2+-gold.svg)

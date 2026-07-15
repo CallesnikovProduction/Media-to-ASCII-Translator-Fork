@@ -15,7 +15,7 @@ java-swing/package/
 *.avi
 *.mkv
 *.webm
-*.png
+java-swing/*.png
 *.jpg
 *.jpeg
 *.gif
